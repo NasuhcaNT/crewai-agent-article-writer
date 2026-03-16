@@ -16,7 +16,7 @@ This project demonstrates how to create a small AI team where each agent has a s
 - Content generation with Gemini
 - Beginner-friendly project structure
 
-##Output
+## Output
 
 https://medium.com/@nasuhcanturker/what-are-ai-agents-building-multi-agent-ai-systems-with-crewai-a96e922e09af
 
