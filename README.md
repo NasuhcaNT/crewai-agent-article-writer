@@ -16,6 +16,10 @@ This project demonstrates how to create a small AI team where each agent has a s
 - Content generation with Gemini
 - Beginner-friendly project structure
 
+##Output
+
+https://medium.com/@nasuhcanturker/what-are-ai-agents-building-multi-agent-ai-systems-with-crewai-a96e922e09af
+
 ## Project Structure
 
 ```bash
@@ -26,3 +30,4 @@ crewai-agent-article-writer/
 ├── .gitignore
 ├── README.md
 └── LICENSE
+
